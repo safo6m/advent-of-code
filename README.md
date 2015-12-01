@@ -7,6 +7,7 @@
 
 ### Progress
 
+<dl>
 <ul style="list-style-type: none;">
   <li>
     <span style="display: inline-block; min-width: 70px;">Day 1</span>  <span style="color: yellow;">★ ★</span>
@@ -84,3 +85,4 @@
     <span style="display: inline-block; min-width: 70px;">Day 25</span>  ★ ★
   </li>
 </ul>
+</dl>
