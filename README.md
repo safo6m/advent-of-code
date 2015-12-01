@@ -9,78 +9,78 @@
 
 <ul style="list-style-type: none;">
   <li>
-    <div style="display: inline-block; min-width: 70px;">Day 1</div>  <span style="color: yellow;">★ ★</span>
+    <span style="display: inline-block; min-width: 70px;">Day 1</span>  <span style="color: yellow;">★ ★</span>
   </li>
   <li>
-    <div style="display: inline-block; min-width: 70px;">Day 2</div>  ★ ★
+    <span style="display: inline-block; min-width: 70px;">Day 2</span>  ★ ★
   </li>
   <li>
-    <div style="display: inline-block; min-width: 70px;">Day 3</div>  ★ ★
+    <span style="display: inline-block; min-width: 70px;">Day 3</span>  ★ ★
   </li>
   <li>
-    <div style="display: inline-block; min-width: 70px;">Day 4</div>  ★ ★
+    <span style="display: inline-block; min-width: 70px;">Day 4</span>  ★ ★
   </li>
   <li>
-    <div style="display: inline-block; min-width: 70px;">Day 5</div>  ★ ★
+    <span style="display: inline-block; min-width: 70px;">Day 5</span>  ★ ★
   </li>
   <li>
-    <div style="display: inline-block; min-width: 70px;">Day 6</div>  ★ ★
+    <span style="display: inline-block; min-width: 70px;">Day 6</span>  ★ ★
   </li>
   <li>
-    <div style="display: inline-block; min-width: 70px;">Day 7</div>  ★ ★
+    <span style="display: inline-block; min-width: 70px;">Day 7</span>  ★ ★
   </li>
   <li>
-    <div style="display: inline-block; min-width: 70px;">Day 8</div>  ★ ★
+    <span style="display: inline-block; min-width: 70px;">Day 8</span>  ★ ★
   </li>
   <li>
-    <div style="display: inline-block; min-width: 70px;">Day 9</div>  ★ ★
+    <span style="display: inline-block; min-width: 70px;">Day 9</span>  ★ ★
   </li>
   <li>
-    <div style="display: inline-block; min-width: 70px;">Day 10</div>  ★ ★
+    <span style="display: inline-block; min-width: 70px;">Day 10</span>  ★ ★
   </li>
   <li>
-    <div style="display: inline-block; min-width: 70px;">Day 11</div>  ★ ★
+    <span style="display: inline-block; min-width: 70px;">Day 11</span>  ★ ★
   </li>
   <li>
-    <div style="display: inline-block; min-width: 70px;">Day 12</div>  ★ ★
+    <span style="display: inline-block; min-width: 70px;">Day 12</span>  ★ ★
   </li>
   <li>
-    <div style="display: inline-block; min-width: 70px;">Day 13</div>  ★ ★
+    <span style="display: inline-block; min-width: 70px;">Day 13</span>  ★ ★
   </li>
   <li>
-    <div style="display: inline-block; min-width: 70px;">Day 14</div>  ★ ★
+    <span style="display: inline-block; min-width: 70px;">Day 14</span>  ★ ★
   </li>
   <li>
-    <div style="display: inline-block; min-width: 70px;">Day 15</div>  ★ ★
+    <span style="display: inline-block; min-width: 70px;">Day 15</span>  ★ ★
   </li>
   <li>
-    <div style="display: inline-block; min-width: 70px;">Day 16</div>  ★ ★
+    <span style="display: inline-block; min-width: 70px;">Day 16</span>  ★ ★
   </li>
   <li>
-    <div style="display: inline-block; min-width: 70px;">Day 17</div>  ★ ★
+    <span style="display: inline-block; min-width: 70px;">Day 17</span>  ★ ★
   </li>
   <li>
-    <div style="display: inline-block; min-width: 70px;">Day 18</div>  ★ ★
+    <span style="display: inline-block; min-width: 70px;">Day 18</span>  ★ ★
   </li>
   <li>
-    <div style="display: inline-block; min-width: 70px;">Day 19</div>  ★ ★
+    <span style="display: inline-block; min-width: 70px;">Day 19</span>  ★ ★
   </li>
   <li>
-    <div style="display: inline-block; min-width: 70px;">Day 20</div>  ★ ★
+    <span style="display: inline-block; min-width: 70px;">Day 20</span>  ★ ★
   </li>
   <li>
-    <div style="display: inline-block; min-width: 70px;">Day 21</div>  ★ ★
+    <span style="display: inline-block; min-width: 70px;">Day 21</span>  ★ ★
   </li>
   <li>
-    <div style="display: inline-block; min-width: 70px;">Day 22</div>  ★ ★
+    <span style="display: inline-block; min-width: 70px;">Day 22</span>  ★ ★
   </li>
   <li>
-    <div style="display: inline-block; min-width: 70px;">Day 23</div>  ★ ★
+    <span style="display: inline-block; min-width: 70px;">Day 23</span>  ★ ★
   </li>
   <li>
-    <div style="display: inline-block; min-width: 70px;">Day 24</div>  ★ ★
+    <span style="display: inline-block; min-width: 70px;">Day 24</span>  ★ ★
   </li>
   <li>
-    <div style="display: inline-block; min-width: 70px;">Day 25</div>  ★ ★
+    <span style="display: inline-block; min-width: 70px;">Day 25</span>  ★ ★
   </li>
 </ul>
