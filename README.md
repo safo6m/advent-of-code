@@ -7,82 +7,28 @@
 
 ### Progress
 
-<dl>
-<ul style="list-style-type: none;">
-  <li>
-    <span style="display: inline-block; min-width: 70px;">Day 1</span>  <span style="color: yellow;">★ ★</span>
-  </li>
-  <li>
-    <span style="display: inline-block; min-width: 70px;">Day 2</span>  ★ ★
-  </li>
-  <li>
-    <span style="display: inline-block; min-width: 70px;">Day 3</span>  ★ ★
-  </li>
-  <li>
-    <span style="display: inline-block; min-width: 70px;">Day 4</span>  ★ ★
-  </li>
-  <li>
-    <span style="display: inline-block; min-width: 70px;">Day 5</span>  ★ ★
-  </li>
-  <li>
-    <span style="display: inline-block; min-width: 70px;">Day 6</span>  ★ ★
-  </li>
-  <li>
-    <span style="display: inline-block; min-width: 70px;">Day 7</span>  ★ ★
-  </li>
-  <li>
-    <span style="display: inline-block; min-width: 70px;">Day 8</span>  ★ ★
-  </li>
-  <li>
-    <span style="display: inline-block; min-width: 70px;">Day 9</span>  ★ ★
-  </li>
-  <li>
-    <span style="display: inline-block; min-width: 70px;">Day 10</span>  ★ ★
-  </li>
-  <li>
-    <span style="display: inline-block; min-width: 70px;">Day 11</span>  ★ ★
-  </li>
-  <li>
-    <span style="display: inline-block; min-width: 70px;">Day 12</span>  ★ ★
-  </li>
-  <li>
-    <span style="display: inline-block; min-width: 70px;">Day 13</span>  ★ ★
-  </li>
-  <li>
-    <span style="display: inline-block; min-width: 70px;">Day 14</span>  ★ ★
-  </li>
-  <li>
-    <span style="display: inline-block; min-width: 70px;">Day 15</span>  ★ ★
-  </li>
-  <li>
-    <span style="display: inline-block; min-width: 70px;">Day 16</span>  ★ ★
-  </li>
-  <li>
-    <span style="display: inline-block; min-width: 70px;">Day 17</span>  ★ ★
-  </li>
-  <li>
-    <span style="display: inline-block; min-width: 70px;">Day 18</span>  ★ ★
-  </li>
-  <li>
-    <span style="display: inline-block; min-width: 70px;">Day 19</span>  ★ ★
-  </li>
-  <li>
-    <span style="display: inline-block; min-width: 70px;">Day 20</span>  ★ ★
-  </li>
-  <li>
-    <span style="display: inline-block; min-width: 70px;">Day 21</span>  ★ ★
-  </li>
-  <li>
-    <span style="display: inline-block; min-width: 70px;">Day 22</span>  ★ ★
-  </li>
-  <li>
-    <span style="display: inline-block; min-width: 70px;">Day 23</span>  ★ ★
-  </li>
-  <li>
-    <span style="display: inline-block; min-width: 70px;">Day 24</span>  ★ ★
-  </li>
-  <li>
-    <span style="display: inline-block; min-width: 70px;">Day 25</span>  ★ ★
-  </li>
-</ul>
-</dl>
+* Day 1  ★ ★
+* Day 2  
+* Day 3  
+* Day 4  
+* Day 5  
+* Day 6  
+* Day 7  
+* Day 8  
+* Day 9  
+* Day 10  
+* Day 11  
+* Day 12  
+* Day 13  
+* Day 14  
+* Day 15  
+* Day 16  
+* Day 17  
+* Day 18  
+* Day 19  
+* Day 20  
+* Day 21  
+* Day 22  
+* Day 23  
+* Day 24  
+* Day 25  
