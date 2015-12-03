@@ -148,6 +148,18 @@
       }
 
       return counter;
+    },
+
+    getResultForPart1(input) {
+      this.initialize(input);
+      this.simulateSantaDelivering();
+      return this.getNumberOfGiftetHouses();
+    },
+
+    getResultForPart2(input) {
+      this.initialize(input);
+      this.simulateRoboSantaDelivering();
+      return this.getNumberOfGiftetHouses();
     }
   };
 

@@ -84,6 +84,14 @@
       }
 
       return -1;
+    },
+
+    getResultForPart1(input) {
+      return this.getCurrentFloor(input);
+    },
+
+    getResultForPart2(input) {
+      return this.getFirstTimeInTheBasement(input);
     }
   };
 

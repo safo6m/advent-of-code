@@ -84,6 +84,14 @@
       let volume = sides[0] * sides[1] * sides[2];
 
       return theSmallestPerimeter + volume;
+    },
+
+    getResultForPart1(input) {
+      return this.calculateAmountOfPaper(input);
+    },
+
+    getResultForPart2(input) {
+      return this.calculateLengthOfRibbon(input);
     }
   };
 
